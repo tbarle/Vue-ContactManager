@@ -1,6 +1,9 @@
 # Vue-ContactManager
 It's a simple Web contact manager developed for a class assignement of the Human Computer Interaction course at University of Florence. The implementation was made using Vue.js and Material Desing. The data of the contact manager are persisted using the localStorage.
 
+<img src="img/Home-View.png" width="400">  <img src="img/SingleContactView.png" width="400">
+
+
 ## Functionalities
 The contact manager allows to:
 * Visualize the entire list of contacts
@@ -34,6 +37,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
