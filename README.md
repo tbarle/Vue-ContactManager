@@ -17,6 +17,14 @@ The contact manager allows to:
 * Search a term in the contact fields filtering the contact visualization
 * Asynchronously edit the contact list from multiple instances the GUI. Active GUIs dynamically update whenever changes are made.
 
+## Dependecies
+* [Vue.js](https://vuejs.org)
+* [Vuex](https://vuex.vuejs.org)
+* [Vue Router](https://router.vuejs.org)
+* [Vue Material](https://vuematerial.io)
+* [Vuelidate](https://vuelidate.js.org)
+* [vuex-persited-state](https://github.com/robinvdvleuten/vuex-persistedstate)
+* [vuex-shared-mutation](https://github.com/xanf/vuex-shared-mutations)
 
 ## Project setup and Run
 ```
