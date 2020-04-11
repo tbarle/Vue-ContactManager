@@ -18,9 +18,10 @@ The contact manager allows to:
 * Asynchronously edit the contact list from multiple instances the GUI. Active GUIs dynamically update whenever changes are made.
 
 
-## Project setup
+## Project setup and Run
 ```
 npm install
+npm run serve
 ```
 
 ### Compiles and hot-reloads for development
@@ -31,9 +32,4 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
